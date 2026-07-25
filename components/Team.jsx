@@ -64,6 +64,21 @@ function Team({ item }) {
               </a>
             </Link>
           )}
+          {item.email && (
+            <Link
+            href={`https://mail.google.com/mail/?view=cm&fs=1&to=${item.email}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            >
+              <Image
+                src="/icons/gmail.png"
+                width={30}
+                height={30}
+                alt="Email"
+                className="transition-transform hover:scale-125"
+              />
+            </Link>
+          )}
         </div>
       </div>
     </div>
