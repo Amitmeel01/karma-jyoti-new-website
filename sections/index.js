@@ -168,161 +168,127 @@ export const gallery = [
 
 export const team = [
   {
-    image: "/images/team/Soumyajit_Ghosh.jpeg",
-    name: "Soumyajit Ghosh",
+    image: "/images/team/Ravi_Ranjan_Singh.jpg",
+    name: "Ravi Ranjan Singh",
     position: "President",
-    fb: "/",
-    insta: "https://www.instagram.com/soumyajit.ghosh_56/",
-    linkdin: "http://linkedin.com/in/soumyajit-ghosh-30a02323b",
-  },
-  {
-    image: "/images/team/RamBabu.png",
-    name: "Rambabu Gupta",
-    position: "Secretary",
-    fb: "/",
-    insta: "/",
-    linkdin: "/",
-  },
- 
-
-  {
-
-  },
-
-  {
-    image: "/images/team/Uttam Kumar.jpg",
-    name: "Uttam Kumar ",
-    position: "Head(Media & Branding)",
-    fb: "/",
-    insta: "/",
-    linkdin: "https://www.linkedin.com/in/uttam-kumar-646660167?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
-  {
-    image: "/images/team/Dharmpal Gurjar.jpg",
-    name: "Dharmpal Gurjar ",
-    position: "Co-Head (Media & Branding) and JEE Maths Faculty ",
-    fb: "/",
-    insta: "https://www.instagram.com/dharmpalgurjar0008/",
-    linkdin: "https://linkedin.com/in/dharmpal-gurjar-b2079b330",
-  },
-
-
-
-{
-  image: "/images/team/Ranjan Singh.jpg",
-  name: "Ravi Ranjan Singh",
-  position: "JEE-Foundation Teachers Head",
-  fb: "https://www.facebook.com/profile.php?id=100007031202771",
-  insta: "https://www.instagram.com/raviranjan.cpr123/",
-  linkdin: "https://www.linkedin.com/in/ravi-ranjan-singh-8b4aa7216",
-},
-
-
-{
-
-},
-
-
-
-  {
-    image: "/images/team/Nirup Sundar Mandal.jpg",
-    name: "Nirup Sundar Mandal ",
-    position: "Coordinator - JEE Foundation ",
-    fb: "https://www.facebook.com/share/16vyZX4H36/",
-    insta: "https://www.instagram.com/nirup.sundar?igsh=c3ltdnNoYmVzcm9k",
-    linkdin: "https://www.instagram.com/nirup.sundar?igsh=c3ltdnNoYmVzcm9k",
-  },
-
-
-
-  {
-    image: "/images/team/Arpana Divyansh.jpg",
-    name: "Arpana Divyansh",
-    position: "Social head",
-    fb: "/",
-    insta: "https://www.instagram.com/arpana_divyansh?igsh=MXFyaXFvMzFmbzJ0NQ==",
-    linkdin: "https://www.linkedin.com/in/arpana-divyansh-29a0aa292",
+    email:"22dr0200@iitism.ac.in"
   },
   {
     image: "/images/team/MD SIRAJULLAH.jpeg",
     name: "Md Sirajullah",
-    position: "Coordinator -Social",
-    fb: "https://www.facebook.com/share/1GXme3xzjE/?mibextid=wwXIfr",
-    insta: "https://www.instagram.com/sirajullahmd?igsh=MXY2NHozMHJmNnF4bQ==",
-    linkdin: "http://linkedin.com/in/md-sirajullah-790a09114",
+    position: "Secretary",
+   email:"23dr0076@iitism.ac.in",
   },
-
+ 
   {
-    image: "/images/team/RAHUL ranjan.jpg",
-    name: "Rahul Ranjan",
-    position: "Coordinator Social",
-    fb: "/",
-    insta: "https://www.instagram.com/rahul_toras/",
-    linkdin: "/",
+    image: "/images/team/Pawan_Prakash.jpg",
+    name: "Pawan Prakash",
+    position: "Treasurer",
+   email:"23dr0102@iitism.ac.in",
   },
-  {
-    image:"/images/team/PrinceRanjan.jpeg",
-    name: "Prince Ranjan",
-    position: "Coordinator Social",
-    fb: "https://www.facebook.com/prince.ranjan.395",
-    insta: "/",
-    linkdin: "https://www.linkedin.com/in/prince-ranjan-b141809a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-  },
-  {
-    image: "/images/team/Suruchi Kumari.jpg",
-    name: "Suruchi Kumari ",
-    position: "Coordinator Social",
-    fb: "/",
-    insta: "/",
-    linkdin: "/",
-  },
-
-  {
-    image: "/images/team/NITISH KUMAR SAH.jpg",
-    name: "Nitish Kumar Sah",
-    position: " Head (JEE, IIT (ISM) campus, Physics Tutor)",
-    fb: "/",
-    insta: "/",
-    linkdin: "/",
-  },
+ 
 
 
   {
-    image: "/images/team/Rishabh Gupta.jpg",
-    name: "Rishabh Gupta",
+    image: "/images/team/Rahul.jpeg",
+    name: "Rahul ",
+    position: "Head(Media & Branding)",
+    email:"25ms0108@iitism.ac.in",
+  },
+  {
+    image: "/images/team/Akash_Rajput.webp",
+    name: "Akash Rajput  ",
+    position: "Co-Head (Media & Branding)",
+    email:"25ms0007@iitism.ac.in",
+  },
+  {
+    image: "/images/team/sahil yadav.jpeg",
+    name: "Sahil Yadav ",
+    position: "JEE Teachers Head ",
+    email:"25ms0123@iitism.ac.in"
+  },
+  {
+    image: "/images/team/Abhishek_Verma.jpg",
+    name: "Abhishek Verma ",
+    position: "JEE Teachers Co-Head ",
+    email:"25ms0002@iitism.ac.in"
+  },
+
+
+
+
+{
+  image: "/images/team/Utkarsh_Deepankar.jpeg",
+  name: " Utkarsh Deepankar",
+  position: "JEE-Foundation Teachers Head",
+  email:"24dr0337@iitism.ac.in"
+},
+
+ {
+    image: "/images/team/Deep_Chatterjee.png",
+    name: "Deep Chatterjee ",
+    position: "Social head",
+    email:"25dr0053@iitism.ac.in",
+  },
+
+
+
+
+
+
+ {
+    image: "/images/team/bitan_biswas.jpg",
+    name: "Bitan Biswas",
     position: "Mathematics Coordinator and Faculty",
-    fb: "/",
-    insta: "https://www.instagram.com/iamrishabhguptaa",
-    linkdin: "https://www.linkedin.com/in/rishabh-gupta-374480318",
+    email:"biswasbitan59@gmail.com",
   },
 
-  {
-    image: "/images/team/Samiya Bano.webp",
-    name: "Samiya",
+   {
+    image: "/images/team/Aadarsh_prem.jpeg",
+    name: "Aadarsh Prem ",
     position: "Physics Coordinator and Faculty",
-    fb: "/",
-    insta: "https://www.instagram.com/Sa_miya5628/",
-    linkdin: "https://www.linkedin.com/in/samiya-bano-85856831b",
+    email:"aadarshprem108@gmail.com",
   },
 
-  {
-    image: "/images/team/DivyaKumari.png",
-    name: "Divya Kumari",
+{
+    image: "/images/team/Aniket_gupta.jpeg",
+    name: "Aniket Kumar Gupta",
     position: "Chemistry Coordinator and Faculty",
-    fb: "/",
-    insta: "https://www.instagram.com/maddheshiya1417?utm_source=qr&igsh=czhhNzNseno4N3Q2",
-    linkdin: "https://www.linkedin.com/in/divya-maddheshiya-a9059b31b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    email:"aniketcoc492@gmail.com"
   },
-  
+
 
   {
-    image: "/images/team/Arun Kumar.jpeg",
-    name: "Arun Kumar ",
-    position: "Mathematics Coordinator and Faculty",
-    fb: "/",
-    insta: "/",
-    linkdin: "http://linkedin.com/in/arun-kumar-491706356",
+    image: "/images/team/Ankit_Kumar.jpg",
+    name: "Ankit kumar ",
+    position: "Coordinator - JEE Foundation ",
+    email:"24dr0034@iitism.ac.in"
   },
+
+ {
+    image: "/images/team/CHANDAN_KUMAR.jpg",
+    name: "Chandan kumar  ",
+    position: "Coordinator - JEE Foundation ",
+    email:"24dr0275@iitism.ac.in"
+  },
+
+ 
+  {
+    image: "/images/team/HARIPAD_MAHTO.jpeg",
+    name: "Haripad Mahto ",
+    position: "Coordinator - JEE Foundation ",
+    email:"24dr0080@iitism.ac.in"
+  },
+
+  {
+    image: "/images/team/Alisha_Rani.jpeg",
+    name: "Alisha Rani",
+    position: "Coordinator Social",
+    email:"25mb0009@iitism.ac.in",
+  },
+ 
+
+  
   {
 
   },
