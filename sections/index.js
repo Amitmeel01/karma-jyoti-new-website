@@ -67,6 +67,24 @@ export const navLinks = [
 export const gallery = [
 
   {
+    image: "/images/gallery/Orphanage.jpeg",
+    route: "/",
+    date: "15th August 2026",
+    location:
+    "Glimpses of Independence Day Celebration at Hindu Mission Orphanage, Hirapur, Dhanbad.",
+
+
+  },
+  {
+    image: "/images/gallery/NukkadNatak.jpeg",
+    route: "/",
+    date: "14th August 2026",
+    location:
+    "Conducted Akhiri Ped a Nukkad Natak event, Central Library, IIT ISM Dhanbad, Dhanbad.",n
+
+
+  },
+  {
     image: "/images/gallery/QuizEvent.jpeg",
     route: "/",
     date: "15th August 2025",
