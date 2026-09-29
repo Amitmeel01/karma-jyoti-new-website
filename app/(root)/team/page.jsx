@@ -41,7 +41,7 @@ function Page() {
 
       {/* main-team */}
 
-      <div className="grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 gap-8  max-[380px]:w-[200px] max-[380px]:ml-[-20px]">
+      <div className="grid lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-1 gap-8 max-[380px]:w-[200px] max-[380px]:ml-[-20px]">
         {team.slice(0, 3).map((item) => (
           <Team key={item.name} item={item} />
         ))}
@@ -62,7 +62,7 @@ function Page() {
         CO-ORDINATORS
       </h1>
       <div className="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-8 max-[380px]:ml-[-20px]">
-        {team.slice(9, 16).map((item) => (
+        {team.slice(9, 17).map((item) => (
           <Team key={item.name} item={item} />
         ))}
       </div>
