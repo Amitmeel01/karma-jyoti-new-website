@@ -309,13 +309,7 @@ export const team = [
     position: "Coordinator Social",
     email:"24dr0045@iitism.ac.in",
   },
- 
-
   
-  {
-
-  },
- 
   {
     image: "/images/team/Bhuvnesh Suthar.jpg",
     name: "Bhuvnesh Suthar",
